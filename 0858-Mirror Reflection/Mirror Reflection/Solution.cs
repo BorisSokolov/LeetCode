@@ -15,26 +15,24 @@
         /// <returns></returns>
         public int MirrorReflection(int p, int q)
         {
-            if(q == 0)
-                return 0;
+            int g = gcd(p, q);
+            p /= g;
+            p %= 2;
+            q /= g;
+            q %= 2;
 
-            if (q == p)
+            if (p == 1 && q == 1)
                 return 1;
 
-            while (p % 2 == 0 && q % 2 == 0)
-            {
-                p /= 2;
-                q /= 2;
-            }
+            return p == 1 ? 0 : 2;
+        }
 
-            if (p % 2 != 0 && q % 2 == 0)
-                return 0;
-            if (p % 2 == 0 && q % 2 == 1)
-                return 2;
-            if (p % 2 != 0 && q % 2 == 1)
-                return 1;
+        private int gcd(int p, int q)
+        {
+            if (p == 0)
+                return q;
 
-            return -1;
+            return gcd(q % p, p);
         }
     }
 }
