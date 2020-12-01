@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LeetCode104
+namespace Maximum_Depth_of_Binary_Tree
 {
     class Program
     {

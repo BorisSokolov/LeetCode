@@ -1,4 +1,4 @@
-﻿namespace LeetCode104
+﻿namespace Maximum_Depth_of_Binary_Tree
 {
     /// <summary>
     /// Definition for a binary tree node.

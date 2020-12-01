@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LeetCode104\LeetCode104.csproj" />
+    <ProjectReference Include="..\LeetCode104\Maximum Depth of Binary Tree.csproj" />
   </ItemGroup>
 
 </Project>
