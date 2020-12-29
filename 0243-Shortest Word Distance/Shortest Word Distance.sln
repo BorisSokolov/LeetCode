@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest Word Distance", "Shortest Word Distance\Shortest Word Distance.csproj", "{C002E88A-CADE-45DF-AFA4-2BC318295CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C002E88A-CADE-45DF-AFA4-2BC318295CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C002E88A-CADE-45DF-AFA4-2BC318295CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C002E88A-CADE-45DF-AFA4-2BC318295CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C002E88A-CADE-45DF-AFA4-2BC318295CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB2DB2CC-9D94-4879-A42E-F41A826351C0}
+	EndGlobalSection
+EndGlobal

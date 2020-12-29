@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace LeetCode104
+namespace Maximum_Depth_of_Binary_Tree
 {
     public class Solution
     {
