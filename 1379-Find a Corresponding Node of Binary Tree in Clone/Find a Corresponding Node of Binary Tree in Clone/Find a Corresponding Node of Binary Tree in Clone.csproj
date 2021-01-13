@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Find_a_Corresponding_Node_of_Binary_Tree_in_Clone</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\LeetCode.Domain\LeetCode.Domain\LeetCode.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find a Corresponding Node of Binary Tree in Clone", "Find a Corresponding Node of Binary Tree in Clone\Find a Corresponding Node of Binary Tree in Clone.csproj", "{240BA5DA-5CD6-4B93-BDF5-B36DCAF66664}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Domain", "..\LeetCode.Domain\LeetCode.Domain\LeetCode.Domain.csproj", "{75EDC8A7-34E8-4E10-952F-4722E9D7CB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240BA5DA-5CD6-4B93-BDF5-B36DCAF66664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240BA5DA-5CD6-4B93-BDF5-B36DCAF66664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240BA5DA-5CD6-4B93-BDF5-B36DCAF66664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240BA5DA-5CD6-4B93-BDF5-B36DCAF66664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EDC8A7-34E8-4E10-952F-4722E9D7CB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EDC8A7-34E8-4E10-952F-4722E9D7CB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EDC8A7-34E8-4E10-952F-4722E9D7CB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EDC8A7-34E8-4E10-952F-4722E9D7CB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F281FC5E-C901-4FD3-9709-0A7C2C239F45}
+	EndGlobalSection
+EndGlobal

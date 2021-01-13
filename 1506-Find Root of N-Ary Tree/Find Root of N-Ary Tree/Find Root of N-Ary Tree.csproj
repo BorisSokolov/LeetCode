@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Find_Root_of_N_Ary_Tree</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\LeetCode.Domain\LeetCode.Domain\LeetCode.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
