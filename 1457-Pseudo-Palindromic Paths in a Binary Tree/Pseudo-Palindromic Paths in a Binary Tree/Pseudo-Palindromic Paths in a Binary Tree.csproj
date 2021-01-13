@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Pseudo_Palindromic_Paths_in_a_Binary_Tree</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Check_If_Two_String_Arrays_are_Equivalent</RootNamespace>
+  </PropertyGroup>
+
+</Project>
