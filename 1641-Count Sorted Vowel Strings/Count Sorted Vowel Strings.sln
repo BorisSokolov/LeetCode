@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Sorted Vowel Strings", "Count Sorted Vowel Strings\Count Sorted Vowel Strings.csproj", "{03651AB7-4A4E-4C23-8334-5768C87261BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03651AB7-4A4E-4C23-8334-5768C87261BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03651AB7-4A4E-4C23-8334-5768C87261BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03651AB7-4A4E-4C23-8334-5768C87261BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03651AB7-4A4E-4C23-8334-5768C87261BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E47E3A28-951F-4391-B98F-A2A445311D25}
+	EndGlobalSection
+EndGlobal
