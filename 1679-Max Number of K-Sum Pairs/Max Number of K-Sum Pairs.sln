@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Number of K-Sum Pairs", "Max Number of K-Sum Pairs\Max Number of K-Sum Pairs.csproj", "{FE50DE66-A3A4-4F49-9D30-9DDCCCFC56F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE50DE66-A3A4-4F49-9D30-9DDCCCFC56F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE50DE66-A3A4-4F49-9D30-9DDCCCFC56F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE50DE66-A3A4-4F49-9D30-9DDCCCFC56F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE50DE66-A3A4-4F49-9D30-9DDCCCFC56F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D0A665-DAF7-468D-85D4-9BACF7A65923}
+	EndGlobalSection
+EndGlobal

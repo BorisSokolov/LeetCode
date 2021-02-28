@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge k Sorted Lists", "Merge k Sorted Lists\Merge k Sorted Lists.csproj", "{D53E6B1D-D945-4582-B8D7-3DA6768F0C12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Domain", "..\LeetCode.Core\LeetCode.Domain\LeetCode.Domain.csproj", "{E2CA3577-2D8C-488F-ADE0-E236118AA3F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53E6B1D-D945-4582-B8D7-3DA6768F0C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53E6B1D-D945-4582-B8D7-3DA6768F0C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53E6B1D-D945-4582-B8D7-3DA6768F0C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53E6B1D-D945-4582-B8D7-3DA6768F0C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2CA3577-2D8C-488F-ADE0-E236118AA3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CA3577-2D8C-488F-ADE0-E236118AA3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CA3577-2D8C-488F-ADE0-E236118AA3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CA3577-2D8C-488F-ADE0-E236118AA3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4992D6A-01AF-430E-BBAA-9CB49DAA60F3}
+	EndGlobalSection
+EndGlobal

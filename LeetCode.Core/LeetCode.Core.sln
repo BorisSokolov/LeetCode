@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Domain", "LeetCode.Domain\LeetCode.Domain.csproj", "{E7688C4C-CAA5-46D0-95F0-6E466D781D68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Utils", "LeetCode.Utils\LeetCode.Utils.csproj", "{492C9E44-9A69-45F6-BE20-58516ED8F35A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Utils", "LeetCode.Utils\LeetCode.Utils.csproj", "{492C9E44-9A69-45F6-BE20-58516ED8F35A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
