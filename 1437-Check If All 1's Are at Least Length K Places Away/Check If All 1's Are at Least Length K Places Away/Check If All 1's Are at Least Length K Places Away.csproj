@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Check_If_All_1_s_Are_at_Least_Length_K_Places_Away</RootNamespace>
+  </PropertyGroup>
+
+</Project>
