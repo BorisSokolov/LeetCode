@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1704-Determine if String Halves Are Alike", "1704-Determine if String Halves Are Alike.csproj", "{6595C53C-88FA-46B9-BD61-2BDB86BCD830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6595C53C-88FA-46B9-BD61-2BDB86BCD830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6595C53C-88FA-46B9-BD61-2BDB86BCD830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6595C53C-88FA-46B9-BD61-2BDB86BCD830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6595C53C-88FA-46B9-BD61-2BDB86BCD830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D00A98-E5B5-4C4F-9212-68A9EED437AE}
+	EndGlobalSection
+EndGlobal

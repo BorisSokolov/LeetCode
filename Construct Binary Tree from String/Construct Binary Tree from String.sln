@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construct Binary Tree from String", "Construct Binary Tree from String\Construct Binary Tree from String.csproj", "{FF036666-5FE6-4184-9635-2B08CD7A7D83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Domain", "..\LeetCode.Core\LeetCode.Domain\LeetCode.Domain.csproj", "{AD3F74E0-7F66-4E59-BBD3-197CE856022A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF036666-5FE6-4184-9635-2B08CD7A7D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF036666-5FE6-4184-9635-2B08CD7A7D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF036666-5FE6-4184-9635-2B08CD7A7D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF036666-5FE6-4184-9635-2B08CD7A7D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3F74E0-7F66-4E59-BBD3-197CE856022A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3F74E0-7F66-4E59-BBD3-197CE856022A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3F74E0-7F66-4E59-BBD3-197CE856022A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3F74E0-7F66-4E59-BBD3-197CE856022A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51BCE78C-4703-44AB-99FB-51B7087AC986}
+	EndGlobalSection
+EndGlobal

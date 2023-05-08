@@ -29,8 +29,8 @@ namespace LeetCode.Domain
         }
 
         public bool Equals(TreeNode other)
-        {
-            return JsonConvert.SerializeObject(this).Equals(JsonConvert.SerializeObject(other));
+        {            
+            return other == null ? false : JsonConvert.SerializeObject(this).Equals(JsonConvert.SerializeObject(other));
         }
 
         public override bool Equals(object obj)
